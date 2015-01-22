@@ -1,0 +1,9 @@
+
+{
+	"name": "lab2worker",
+	"main": "config/default.js",
+	"dependencies": {
+		"zmq" : "*",
+	    "config": "*"
+	}
+}

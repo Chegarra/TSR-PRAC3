@@ -1,0 +1,9 @@
+
+{
+	"name": "lab2broker",
+	"main": "config/default.js",
+	"dependencies": {
+		"zmq" : "*",
+	    "config": "*"
+	}
+}

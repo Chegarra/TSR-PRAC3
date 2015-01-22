@@ -1,0 +1,9 @@
+
+{
+	"name": "labelbuilder",
+	"main": "config/default.js",
+	"dependencies": {
+		"zmq" : "*",
+	    "config": "*"
+	}
+}
